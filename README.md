@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrystalPharma
-- 👀 I’m interested in web development and photography
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning frontend web development (new to Javascript)
 
 
